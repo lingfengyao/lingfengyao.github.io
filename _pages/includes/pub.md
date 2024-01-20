@@ -4,7 +4,7 @@
 
 * ``Applied Intelligence`` [Model-Agnostic Generation-Enhanced Technology for Few-Shot Intrusion Detection in IoT](), Junpeng He, **Lingfeng Yao**, Muhammad Khurram Khan, Xiong Li, Weina Niu, Xiaosong Zhang, Fagen Li
 
-  Applied Intelligence, 2023. [Paper](https://github.com/lingfengyao/lingfengyao.github.io/blob/main/papers/APIN24.pdf)
+  Applied Intelligence, 2023. [Paper](../../papers/APIN24.pdf)
 
 ## Conference Papers:
 
