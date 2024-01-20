@@ -4,13 +4,13 @@
 
 * ``Applied Intelligence`` [Model-Agnostic Generation-Enhanced Technology for Few-Shot Intrusion Detection in IoT](), Junpeng He, **Lingfeng Yao**, Muhammad Khurram Khan, Xiong Li, Weina Niu, Xiaosong Zhang, Fagen Li
 
-  Applied Intelligence, 2023. [Paper]("https://github.com/lingfengyao/lingfengyao.github.io/blob/main/papers/APIN24.pdf")
+  Applied Intelligence, 2023. [Paper](https://github.com/lingfengyao/lingfengyao.github.io/blob/main/papers/APIN24.pdf)
 
 ## Conference Papers:
 
 - ``ICC 2024`` [A Robust Malicious Traffic Detection Framework with Low-quality Labeled Data](), **Lingfeng Yao**, Weina Niu, Qingjun Yuan, Beibei Li, Yanfeng Zhang, Xiaosong Zhang
 
-  IEEE International Conference on Communications. [Paper]("https://github.com/lingfengyao/lingfengyao.github.io/blob/main/papers/ICC24.pdf")
+  IEEE International Conference on Communications. [Paper](../../papers/ICC24.pdf)
   
 * ``CSCWD 2024`` [A Generic Framework to Enhance Model Robustness for Intrusion Detection on Noisy Data](), **Lingfeng Yao**, Anran Hou, Weina Niu, Qingjun Yuan, Junpeng He, Yanfeng Zhang
 
@@ -18,12 +18,12 @@
 
 * ``ICDF2C 2023`` [DEML: Data-enhanced Meta-Learning Method for IoT APT Traffic Detection](), Jia Hu, Weina Niu, Qingjun Yuan, **Lingfeng Yao**, Junpeng He, Yanfeng Zhang and Xiaosong Zhang
 
-  The 14th EAI International Conference on Digital Forensics & Cyber Crime. [Paper]("https://github.com/lingfengyao/lingfengyao.github.io/blob/main/papers/ICDF2C23.pdf")
+  The 14th EAI International Conference on Digital Forensics & Cyber Crime. [Paper](../../papers/ICDF2C23.pdf)
 
 * ``CSCWD 2023`` [Black-box Word-level Textual Adversarial Attack Based On Discrete Harris Hawks 
   Optimization](), Tianrui Wang, Weina Niu, Kangyi Ding, **Lingfeng Yao**, Pengsen Cheng and Xiaosong Zhang
 
-  The 26th International Conference on Computer Supported Cooperative Work in Design. [Paper]("https://github.com/lingfengyao/lingfengyao.github.io/blob/main/papers/CSCWD23.pdf")
+  The 26th International Conference on Computer Supported Cooperative Work in Design. [Paper](../../papers/CSCWD23.pdf)
 
 
 ## Patents
