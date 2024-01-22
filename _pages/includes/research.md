@@ -10,7 +10,7 @@
     
   - Implemented the algorithm and evaluated the performance on BoT-IoT and a real-world malicious traffic dataset, achieving an accuracy of 90% with 80% noise labels.
 
-  - 	Summarized the ideas and experimental results, wrote a paper, and accepted by ICC 2024.
+  - Summarized the ideas and experimental results, wrote a paper, and accepted by ICC 2024.
 </div>
 </div>
 
@@ -34,7 +34,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Intelligence</div><img src='images/maget.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Model-Agnostic Generation-Enhanced Technology for Few-Shot Intrusion Detection in IoT**
-  
+
 **Role:** Main developer
 
 
