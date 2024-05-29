@@ -2,7 +2,7 @@
 # 📖 Educations
 - *2021.09 - 2024.06*, **Master**, School of Computer Science and Engineering, **UESTC**, Chengdu.
 
-  - **Co-advisors:**  [Xiaosong Zhang](https://www.researchgate.net/scientific-contributions/Xiaosong-Zhang-70729540) and [Weina Niu](https://www.researchgate.net/scientific-contributions/Weina-Niu-2111558519)
+  - **Co-advisors:**  [Xiong Li](https://scholar.google.com/citations?user=oRaABLcAAAAJ) and [Weina Niu](https://www.researchgate.net/scientific-contributions/Weina-Niu-2111558519)
   - **GPA:** 3.72/4.0
   - **Main Courses:** Advanced Algorithm Design and Analysis, Advanced Computer Vision, Machine 
     Learning, Advanced Computer Graphics, Graph Theory and its Application
