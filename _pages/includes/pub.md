@@ -31,8 +31,6 @@
 * Yanfeng Zhang, Weina Niu, **Lingfeng Yao**, Jia Hu, Yizhuo Zhao, “A device and method for malicious traffic detection against label noise”, CN patent No. CN202310148063.0, Feb 2023.
 * Weina Niu, **Lingfeng Yao**, Xiaosong Zhang, Jia Hu, Zhaoxu He, “An open set identification device and method for malicious traffic detection”, CN patent No. CN202310102130.5, Feb 2023.
 * Weina Niu, Jia Hu, Xiaosong Zhang, **Lingfeng Yao**, Zhaoxu He, “A detection system and method for few-shot malicious traffic”, CN patent No. CN202310101380.7, Feb 2023.
-* Yanfeng Zhang, Weina Niu, Jia Hu, **Lingfeng Yao**, “An IoT malicious traffic detection device against concept drift”, CN patent No. CN202310148030.6, Feb 2023.
-* Weina Niu, Xiaosong Zhang, Chong Wang, **Lingfeng Yao**, Tianci Dai, Lirui Zhao, Yukun Zhu, “A 
-  multi-view based HTTPS malware traffic detection system and method”, CN patent No.
-  CN202210733908.8, June 2022.
+* Yanfeng Zhang, Weina Niu, Jia Hu, **Lingfeng Yao**, “An IoT malicious traffic detection device against concept drift”, CN patent No. N202310148030.6, Feb 2023.
+* Weina Niu, Xiaosong Zhang, Chong Wang, **Lingfeng Yao**, Tianci Dai, Lirui Zhao, Yukun Zhu, “A multi-view based HTTPS malware traffic detection system and method”, CN patent No. CN202210733908.8, June 2022.
 

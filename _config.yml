@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Linfeng Yao"
-description              : "Master of Cyber Security (2021- 2024Expected). Finding the PhD position (2024 Spring or Fall) "
+description              : "University of Houston 24Fall PhD Student "
 repository               : "lingfengyao/lingfengyao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Lingfeng Yao (姚领风)"
   avatar           : "images/profile.jpeg"
-  bio              : "Institute for Cyber Security UESTC"
-  location         : "Chengdu"
+  bio              : "ANTS LAB"
+  location         : "Houston"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LLY710AAAAAJ"
